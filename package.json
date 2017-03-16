@@ -1,0 +1,27 @@
+{
+  "name": "p5-mario",
+  "version": "0.0.1",
+  "description": "Mario written with p5.js",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlann/p5-mario.git"
+  },
+  "keywords": [
+    "mario",
+    "p5"
+  ],
+  "author": "lann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djlann/p5-mario/issues"
+  },
+  "homepage": "https://github.com/djlann/p5-mario#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
